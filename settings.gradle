@@ -1,0 +1,2 @@
+rootProject.name='ListWidget'
+include ':app'
